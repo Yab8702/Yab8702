@@ -8,7 +8,8 @@ Hi! My name is Yalelet dessalegn 😄
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=py,django)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=py,django)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 <br/>
 
 ### Tools
