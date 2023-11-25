@@ -1,9 +1,27 @@
-→→ 👋 Hi I'm Yalelet Dessalegn        
+Hi! My name is Yalelet dessalegn 😄
+========================================================================================================================================
 
-→→ 👀 I'm Interested in AI, Full Stack Web Development, Penetration Testing, Embeded System And Agumented Reality   
+🌍  I am a Full-stack Engineer based in Addis Ababa, Ethiopia.
+<br/>
 
-→→ 🌱 I’m currently learning Devops
+### Language
 
-→→ 👯 I’m looking to collaborate any projects related with  Penetration Testing or Full Stack web development    
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+<br/>
 
-→→ 📫 How to reach me: yabelectronics@gmai.com    
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=emacs)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+
+<br/>
+
+### Social
+<div id="badges">
+  <a href="https://www.linkedin.com/in/yalelet-dessalegn-584417247/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    <a href="https://twitter.com/yab8702">
+  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/:user"/>
+  </a>
+</div>
