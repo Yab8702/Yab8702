@@ -7,9 +7,9 @@ I focus on designing systems that are easy to reason about, reducing boilerplate
 ---
 
 ### What I do
-- Full Stack Development (MERN / TypeScript)
-- Designing clean, scalable architectures
-- Improving developer experience (DX)
+- Full Stack Development (MERN / TypeScript)  
+- Designing clean, scalable architectures  
+- Improving developer experience (DX)  
 - Mentoring and teaching web development
 
 ---
@@ -26,32 +26,30 @@ Check out the [documentation](https://nevr-ts.github.io/nevr/) for setup, usage,
 ---
 
 ### Languages & Frameworks
-[![HTML](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)  
-[![JS/TS](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)  
-[![React/Next](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)  
-[![Tailwind/SCSS](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev)  
-[![Python/Django](https://skillicons.dev/icons?i=py,django)](https://skillicons.dev)  
-[![Node/Express](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)  
-[![C/C++](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)  
-[![Databases](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) &nbsp;
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) &nbsp;
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) &nbsp;
+[![Next.js](https://skillicons.dev/icons?i=next)](https://skillicons.dev) &nbsp;
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) &nbsp;
+[![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev) &nbsp;
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
 ---
 
 ### Tools
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)  
-[![Vim](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)  
-[![Emacs](https://skillicons.dev/icons?i=emacs)](https://skillicons.dev)  
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)  
-[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)  
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)  
-[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)  
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) &nbsp;
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) &nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev) &nbsp;
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) &nbsp;
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev) &nbsp;
 [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
 ---
 
 ### Social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yalelet-dessalegn-584417247/)  
-[![X (formerly Twitter)](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yab8702)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yalelet-dessalegn-584417247/) &nbsp;
+[![X (formerly Twitter)](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yab8702)
 
 ---
 
@@ -59,5 +57,4 @@ Check out the [documentation](https://nevr-ts.github.io/nevr/) for setup, usage,
 - **Creator of Nevr** — entity-first TypeScript framework  
 - **Full Stack Developer @ Evangadi Tech**  
 - **Certified in AI Engineering & Cybersecurity**  
-- Building **scalable, maintainable applications** with **end-to-end type safety**  
-
+- Building **scalable, maintainable applications** with **end-to-end type safety**
