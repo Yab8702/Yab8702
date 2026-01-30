@@ -1,7 +1,17 @@
-Hi! My name is Yalelet dessalegn 😄
+Hi! My name is Yalelet dessalegn 👋
 ========================================================================================================================================
 
-🌍  I am a Full-stack Engineer based in Addis Ababa, Ethiopia.
+I’m a **Full Stack Developer** and creator of **[Nevr](https://github.com/nevr-ts/nevr)** — an entity-first TypeScript framework designed for scalable, maintainable applications with end-to-end type safety.
+
+### What I do
+- Full Stack Development (MERN / TypeScript)
+- Developer Experience (DX) improvements
+- Clean architecture & scalable systems
+- Mentoring & teaching web development
+
+### Open Source
+- [Never](https://github.com/nevr-ts/nevr) — Entity-first TypeScript framework for modern apps
+  
 <br/>
 
 ### Language
